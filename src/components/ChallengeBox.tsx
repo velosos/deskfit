@@ -2,8 +2,6 @@ import { useContext } from 'react';
 import { challengesContext } from '../contexts/ChallengeContext';
 import { CountdownContext } from '../contexts/CountDownContext';
 import styles from '../styles/components/ChallengeBox.module.css'
-import { Button } from './SmallButton';
-
 
 export const ChallengeBox = () => {
 
